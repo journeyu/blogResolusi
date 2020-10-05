@@ -6,7 +6,7 @@ subtitle: Berapa banyak perusahaan yang benar-benar telah mengadopsi teknologi
   perusahaan dan aktif dalam sosial media menjadikan perusahaan tersebut telah
   mengadopsi teknologi digital secara sempurna.
 category:
-  - About Awake
+  - Transformasi Digital
 author: Muhammad Akbar
 date: 2020-10-05T04:10:42.573Z
 featureImage: /uploads/markup-hero.jpg
